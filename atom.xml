@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>伍默的博客</title>
+  
+  
+  <link href="http://wuhash.com/atom.xml" rel="self"/>
+  
+  <link href="http://wuhash.com/"/>
+  <updated>2021-03-02T01:52:54.891Z</updated>
+  <id>http://wuhash.com/</id>
+  
+  <author>
+    <name>伍默</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>head 模块</title>
+    <link href="http://wuhash.com/p/166ab9cc.html"/>
+    <id>http://wuhash.com/p/166ab9cc.html</id>
+    <published>2021-01-07T16:34:13.000Z</published>
+    <updated>2021-03-02T01:52:54.891Z</updated>
+    
+    
+    <summary type="html">linux 0.12 的head 模块 部分</summary>
+    
+    
+    
+    <category term="操作系统" scheme="http://wuhash.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>setup.S 模块</title>
+    <link href="http://wuhash.com/p/240e616d.html"/>
+    <id>http://wuhash.com/p/240e616d.html</id>
+    <published>2020-12-29T05:45:34.000Z</published>
+    <updated>2021-03-02T01:52:54.891Z</updated>
+    
+    
+    <summary type="html">linux 0.12 的 setup.s 模块部分</summary>
+    
+    
+    
+    <category term="操作系统" scheme="http://wuhash.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="Linux" scheme="http://wuhash.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>bootsect</title>
+    <link href="http://wuhash.com/p/51cc34db.html"/>
+    <id>http://wuhash.com/p/51cc34db.html</id>
+    <published>2020-12-27T12:31:18.000Z</published>
+    <updated>2021-03-02T01:52:54.891Z</updated>
+    
+    
+    <summary type="html">linux 0.12 的 bootsect 模块部分</summary>
+    
+    
+    
+    <category term="操作系统" scheme="http://wuhash.com/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="Linux 0.12" scheme="http://wuhash.com/tags/Linux-0-12/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>无聊时的更新</title>
+    <link href="http://wuhash.com/p/5cdfe73e.html"/>
+    <id>http://wuhash.com/p/5cdfe73e.html</id>
+    <published>2020-12-06T20:00:03.000Z</published>
+    <updated>2021-03-02T01:52:54.891Z</updated>
+    
+    
+    <summary type="html">这是一个我日常更新自己近期生活状态、看书笔记的页面。</summary>
+    
+    
+    
+    <category term="笔记" scheme="http://wuhash.com/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+</feed>
